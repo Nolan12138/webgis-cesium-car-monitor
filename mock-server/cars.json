@@ -1,0 +1,184 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "plateNumber": "京A·3970V",
+      "status": "online",
+      "latitude": 39.9102011478557,
+      "longitude": 116.38467857586444,
+      "speed": 55,
+      "heading": 109.39014939874585
+    },
+    {
+      "id": 2,
+      "plateNumber": "京A·9543Y",
+      "status": "online",
+      "latitude": 39.94379326393237,
+      "longitude": 116.4212383799159,
+      "speed": 19,
+      "heading": 49.61274616523099
+    },
+    {
+      "id": 3,
+      "plateNumber": "京A·1046L",
+      "status": "offline",
+      "latitude": 39.885806111052226,
+      "longitude": 116.42248294023064,
+      "speed": 50,
+      "heading": 70.62162370400216
+    },
+    {
+      "id": 4,
+      "plateNumber": "京A·8104V",
+      "status": "online",
+      "latitude": 39.95270895383401,
+      "longitude": 116.39904963814564,
+      "speed": 29,
+      "heading": 341.36809431811207
+    },
+    {
+      "id": 5,
+      "plateNumber": "京A·5158L",
+      "status": "offline",
+      "latitude": 39.93969465454651,
+      "longitude": 116.35354793591708,
+      "speed": 31,
+      "heading": 165.82663990503625
+    },
+    {
+      "id": 6,
+      "plateNumber": "京A·8000K",
+      "status": "offline",
+      "latitude": 39.89671103993811,
+      "longitude": 116.43786039906661,
+      "speed": 15,
+      "heading": 255.3569873329924
+    },
+    {
+      "id": 7,
+      "plateNumber": "京A·9474F",
+      "status": "online",
+      "latitude": 39.9071643627383,
+      "longitude": 116.34963521745544,
+      "speed": 27,
+      "heading": 269.4465133293811
+    },
+    {
+      "id": 8,
+      "plateNumber": "京A·2136E",
+      "status": "offline",
+      "latitude": 39.91940941201601,
+      "longitude": 116.416678788743,
+      "speed": 55,
+      "heading": 36.71399672945279
+    },
+    {
+      "id": 9,
+      "plateNumber": "京A·8202L",
+      "status": "online",
+      "latitude": 39.96147711188194,
+      "longitude": 116.41833051256614,
+      "speed": 50,
+      "heading": 146.41872106503558
+    },
+    {
+      "id": 10,
+      "plateNumber": "京A·6286V",
+      "status": "online",
+      "latitude": 39.939703529481925,
+      "longitude": 116.40683591085268,
+      "speed": 32,
+      "heading": 282.28770353244863
+    },
+    {
+      "id": 11,
+      "plateNumber": "京A·4460T",
+      "status": "offline",
+      "latitude": 39.92718452584415,
+      "longitude": 116.41239530151763,
+      "speed": 30,
+      "heading": 299.67264223018844
+    },
+    {
+      "id": 12,
+      "plateNumber": "京A·5627S",
+      "status": "online",
+      "latitude": 39.88592658035369,
+      "longitude": 116.35273527227606,
+      "speed": 14,
+      "heading": 279.84692081518256
+    },
+    {
+      "id": 13,
+      "plateNumber": "京A·4363V",
+      "status": "online",
+      "latitude": 39.86672883133443,
+      "longitude": 116.38623126780632,
+      "speed": 42,
+      "heading": 214.4394126058046
+    },
+    {
+      "id": 14,
+      "plateNumber": "京A·3316P",
+      "status": "online",
+      "latitude": 39.93148474195027,
+      "longitude": 116.39365378480936,
+      "speed": 12,
+      "heading": 9.795987159993786
+    },
+    {
+      "id": 15,
+      "plateNumber": "京A·8308B",
+      "status": "offline",
+      "latitude": 39.937932245383465,
+      "longitude": 116.35055735053403,
+      "speed": 11,
+      "heading": 53.21510215826879
+    },
+    {
+      "id": 16,
+      "plateNumber": "京A·1099C",
+      "status": "online",
+      "latitude": 39.909045897363214,
+      "longitude": 116.4339675067032,
+      "speed": 50,
+      "heading": 336.33969024043915
+    },
+    {
+      "id": 17,
+      "plateNumber": "京A·2537O",
+      "status": "offline",
+      "latitude": 39.883073387972466,
+      "longitude": 116.42329627111602,
+      "speed": 16,
+      "heading": 4.591879033118403
+    },
+    {
+      "id": 18,
+      "plateNumber": "京A·6779P",
+      "status": "online",
+      "latitude": 39.91190147647244,
+      "longitude": 116.40483945763795,
+      "speed": 8,
+      "heading": 324.8082117369555
+    },
+    {
+      "id": 19,
+      "plateNumber": "京A·7974B",
+      "status": "online",
+      "latitude": 39.941095169843656,
+      "longitude": 116.4006282062511,
+      "speed": 45,
+      "heading": 18.752060979973464
+    },
+    {
+      "id": 20,
+      "plateNumber": "京A·1271W",
+      "status": "online",
+      "latitude": 39.885930563203885,
+      "longitude": 116.37419887750889,
+      "speed": 42,
+      "heading": 251.3113655170215
+    }
+  ]
+}
